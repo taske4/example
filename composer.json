@@ -1,0 +1,11 @@
+{
+    "name": "taske/parse-info",
+    "require": {
+        "monolog/monolog": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
